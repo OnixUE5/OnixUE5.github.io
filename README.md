@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blender 3D Expert - Your Name</title>
+    <title>Blender 3D Expert - Onix</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,7 +41,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Onix</h1>
         <p>Blender 3D Expert</p>
     </header>
     <div class="content">
